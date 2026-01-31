@@ -47,7 +47,7 @@
 
 ### Links
 
-- Talks — [SpeakerDeck](https://speakerdeck.com/omooooori)
+- Talks — [SpeakerDeck](https://speakerdeck.com/rio432)
 
 ---
 
@@ -107,5 +107,5 @@ Androidアプリ開発を8年、iOSアプリ開発を2年、バックエンド�
 
 ### リンク
 
-- 登壇資料 — [SpeakerDeck](https://speakerdeck.com/omooooori)
+- 登壇資料 — [SpeakerDeck](https://speakerdeck.com/rio432)
 - 個人開発: [将棋アプリ](https://github.com/omooooori/shogi_template) / [英単語アプリ](https://github.com/omooooori/eitanren_portfolio) / [簡易業務アプリ](https://github.com/omooooori/flutter_sample_app)

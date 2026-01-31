@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://x.com/rioX432"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://speakerdeck.com/omooooori"><img src="https://img.shields.io/badge/Speaker_Deck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" /></a>
+  <a href="https://speakerdeck.com/rio432"><img src="https://img.shields.io/badge/Speaker_Deck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" /></a>
   <a href="https://github.com/omooooori/omooooori/blob/main/CAREER.md"><img src="https://img.shields.io/badge/Career_Detail-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=omooooori&style=for-the-badge&color=6366F1" alt="Profile Views" />
 </p>
