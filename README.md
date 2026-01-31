@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Mobile App Developer based in Tokyo</strong><br/>
-  Android Tech Lead at <b>AnotherBall</b> — Building <b><a href="https://avvy.live/en">Avvy</a></b>
+  Mobile Tech Lead at <b>AnotherBall</b> — Building <b><a href="https://avvy.live/en">Avvy</a></b>
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@
 > **See [Career Detail](./CAREER.md) for more / 詳細は [Career Detail](./CAREER.md) を参照**
 
 ```
-2025 ~         AnotherBall        ── Android Tech Lead / Avvy
+2025 ~         AnotherBall        ── Mobile Tech Lead / Avvy
 2024 ~         MedicalNote (Side) ── Android / iOS (KMP)
 2022 ~ 2025    LY Corporation     ── Android Lead / Yahoo! Shopping
 2022 ~ 2024    ZAICO (Side)       ── Android

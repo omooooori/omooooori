@@ -12,7 +12,7 @@
 
 ### Work Experience
 
-#### AnotherBall Pte. Ltd. — *Android Tech Lead* (Jul 2025 ~ Present)
+#### AnotherBall Pte. Ltd. — *Mobile Tech Lead* (Jul 2025 ~ Present)
 
 - Leading Android development for **Avvy** — codebase improvement, architecture, performance optimization
 - Designing shared logic with **Kotlin Multiplatform** across Android/iOS
@@ -59,7 +59,7 @@ Androidアプリ開発を8年、iOSアプリ開発を2年、バックエンド�
 
 ### 職務経歴
 
-#### AnotherBall Pte. Ltd. — *Android Tech Lead*（2025年7月〜現在）
+#### AnotherBall Pte. Ltd. — *Mobile Tech Lead*（2025年7月〜現在）
 
 - AvvyアプリのAndroid開発全般を担当し、既存コードベースの改善・品質向上を推進
 - UI/UX改善、アーキテクチャ整備、パフォーマンス最適化を中心に安定性と開発効率を向上
