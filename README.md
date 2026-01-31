@@ -93,14 +93,6 @@
   <img src="https://github-readme-stats-jet-beta-37.vercel.app/api/top-langs/?username=omooooori&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=omooooori&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omooooori&theme=tokyonight&no-frame=true&column=7" />
-</p>
-
 ---
 
 ### 🐍 Contribution Graph
