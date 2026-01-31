@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Mobile App Developer based in Tokyo</strong><br/>
-  Android Tech Lead at <b>AnotherBall</b> — Building <b>Avvy</b>
+  Android Tech Lead at <b>AnotherBall</b> — Building <b><a href="https://avvy.live/">Avvy</a></b>
 </p>
 
 <p align="center">
