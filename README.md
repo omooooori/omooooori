@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Mobile App Developer based in Tokyo</strong><br/>
-  Mobile Tech Lead at <b>AnotherBall</b> — Building <b><a href="https://avvy.live/en">Avvy</a></b>
+  Android Tech Lead (Android / iOS) at <b>AnotherBall</b> — Building <b><a href="https://avvy.live/en">Avvy</a></b>
 </p>
 
 <p align="center">
@@ -52,6 +52,10 @@
       <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" />
       <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
+      <img src="https://img.shields.io/badge/Danger-FF3030?style=flat-square&logo=danger&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -63,7 +67,7 @@
 > **See [Career Detail](./CAREER.md) for more / 詳細は [Career Detail](./CAREER.md) を参照**
 
 ```
-2025 ~         AnotherBall        ── Mobile Tech Lead / Avvy
+2025 ~         AnotherBall        ── Android Tech Lead (Android / iOS) / Avvy
 2024 ~         MedicalNote (Side) ── Android / iOS (KMP)
 2022 ~ 2025    LY Corporation     ── Android Lead / Yahoo! Shopping
 2022 ~ 2024    ZAICO (Side)       ── Android
