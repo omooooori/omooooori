@@ -1,0 +1,111 @@
+# Career Detail
+
+> [English](#english) | [日本語](#日本語)
+
+---
+
+## English
+
+### Summary
+
+8+ years of Android development, 2 years of iOS, and 2 years of backend (Spring Boot). Leading adoption of modern technologies — Jetpack Compose, Kotlin Multiplatform, multi-module architecture — in production apps. 4 years of experience collaborating with international teams in English.
+
+### Work Experience
+
+#### AnotherBall Pte. Ltd. — *Android Tech Lead* (Jul 2025 ~ Present)
+
+- Leading Android development for **Avvy** — codebase improvement, architecture, performance optimization
+- Designing shared logic with **Kotlin Multiplatform** across Android/iOS
+- Driving code review practices, tech selection, and refactoring strategies
+- Also serving as official recruiter — [Open Positions](https://www.notion.so/anotherball/Open-Positions-1b4aeded16c68038a0cdd1b4bec6d317)
+
+#### LY Corporation (LINEヤフー) — *Android Lead* (Apr 2022 ~ Oct 2025)
+
+- Led 3 major redesigns of **Yahoo! Shopping** app's top screen
+- Introduced Jetpack Compose, migrated MVP→MVVM, refactored to multi-module architecture
+- Built backend APIs with Spring Boot (1 year) and an internal iOS validation app with SwiftUI (1 year)
+- Participated in Architecture & Android working groups
+
+#### TOPCON Corporation — *Mobile Engineer* (Apr 2018 ~ Mar 2022)
+
+- Built a surveying controller Android app from scratch (requirements → release)
+- 4 years of collaboration with Russian dev team, including 3-month on-site visit
+- Led a team of 9 (dev + QA) as project leader
+
+### Side Projects (Contract)
+
+#### MedicalNote Inc. (Apr 2024 ~ Present)
+- Solo developer for healthcare mobile apps (Android / iOS), introduced KMP
+
+#### ZAICO Inc. (Aug 2022 ~ Feb 2024)
+- Android development for inventory management app
+
+### Education
+
+- **Doshisha University** — M.S. in Mathematical Sciences and Environment (2016–2018)
+- **Doshisha University** — B.S. in Environmental Systems (2012–2016)
+
+### Links
+
+- Talks — [SpeakerDeck](https://speakerdeck.com/omooooori)
+
+---
+
+## 日本語
+
+### 職務要約
+
+Androidアプリ開発を8年、iOSアプリ開発を2年、バックエンド（Spring Boot）開発を2年経験。特にAndroid領域では、Jetpack Compose、Kotlin Multiplatform、マルチモジュール構成など最新技術の導入を実プロダクトで推進し、設計から実装、リリース後の改善まで一貫してリード。英語を用いた海外メンバーとの共同開発（約4年）の経験も。
+
+### 職務経歴
+
+#### AnotherBall Pte. Ltd. — *Android Tech Lead*（2025年7月〜現在）
+
+- AvvyアプリのAndroid開発全般を担当し、既存コードベースの改善・品質向上を推進
+- UI/UX改善、アーキテクチャ整備、パフォーマンス最適化を中心に安定性と開発効率を向上
+- Kotlin Multiplatform環境での共通ロジック設計・実装を担当
+- コードレビュー、技術選定、リファクタリング方針の策定など開発基盤づくりを主導
+- 公式リクルーターとして採用活動にも従事 — [募集一覧](https://www.notion.so/anotherball/Open-Positions-1b4aeded16c68038a0cdd1b4bec6d317)
+
+#### LINEヤフー株式会社 — *Android Lead*（2022年4月〜2025年10月）
+
+- ヤフーショッピングAndroidアプリTOP画面のリニューアルを3回にわたり担当
+- Jetpack Compose導入、MVP→MVVMへのアーキテクチャ変更、マルチモジュール構成へのリファクタリングを推進
+- Spring Bootを活用したAPI開発（1年）、社内検証用iOSアプリをSwiftUIで単独開発（1年）
+- アーキテクチャワーキンググループ・Androidワーキンググループに参加
+
+#### 株式会社トプコン — *Mobile Engineer*（2018年4月〜2022年3月）
+
+- 測量機器向けコントローラー新規Androidアプリの立ち上げから開発（要件定義〜リリース）を担当
+- ロシア開発チームとの4年間の共同開発。3ヶ月の現地出張も経験
+- 開発チーム・QAチーム計9名のリーダーとしてプロジェクトを推進
+
+### 副業・業務委託
+
+#### 株式会社メディカルノート（2024年4月〜現在）
+- 医療従事者・患者向けモバイルアプリ開発・保守（Android / iOS）を単独で担当。KMPを提案・導入
+
+#### 株式会社ZAICO（2022年8月〜2024年2月）
+- 在庫管理Androidアプリの開発（UI刷新、不具合修正、QRコード処理の実装）
+
+### 学歴
+
+- **同志社大学院** 理工学研究科 数理環境科学専攻（2016年4月〜2018年3月）
+- **同志社大学** 理工学部 環境システム学科（2012年4月〜2016年3月）
+
+### スキル
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | Kotlin/Java (8年) · Swift (2年) · C++ (4年) · Dart (1年) |
+| **Frameworks** | Jetpack Compose (3年) · KMP (2年) · Spring Boot (2年) · Flutter (1年) |
+| **Reactive** | Coroutine (3年) · Flow (1.5年) · RxJava (2年) |
+| **CI/CD** | Firebase · Screwdriver · Fastlane · Circle CI |
+| **DB** | Room (8年) · SQLite (6年) · Realm (1年) |
+| **Tools** | Git · JIRA · Backlog · BitBucket · Confluence · Figma |
+| **Language** | English (Conversational) |
+
+### リンク
+
+- 登壇資料 — [SpeakerDeck](https://speakerdeck.com/omooooori)
+- 個人開発: [将棋アプリ](https://github.com/omooooori/shogi_template) / [英単語アプリ](https://github.com/omooooori/eitanren_portfolio) / [簡易業務アプリ](https://github.com/omooooori/flutter_sample_app)

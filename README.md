@@ -1,6 +1,108 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=omooooori&count_private=true&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omooooori&count_private=true&layout=compact" />
-</a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+RIO;Android+%7C+iOS+%7C+Backend;8%2B+Years+Mobile+App+Developer" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <strong>Mobile App Developer based in Tokyo</strong><br/>
+  Android Tech Lead at <b>AnotherBall</b> — Building <b>Avvy</b>
+</p>
+
+<p align="center">
+  <a href="https://x.com/rioX432"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://speakerdeck.com/omooooori"><img src="https://img.shields.io/badge/Speaker_Deck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" /></a>
+  <a href="https://github.com/omooooori/omooooori/blob/main/CAREER.md"><img src="https://img.shields.io/badge/Career_Detail-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=omooooori&style=for-the-badge&color=6366F1" alt="Profile Views" />
+</p>
+
+---
+
+### 🛠 Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+      <img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" />
+      <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💼 Career
+
+> **See [Career Detail](./CAREER.md) for more / 詳細は [Career Detail](./CAREER.md) を参照**
+
+```
+2025 ~         AnotherBall        ── Android Tech Lead / Avvy
+2024 ~         MedicalNote (Side) ── Android / iOS (KMP)
+2022 ~ 2025    LY Corporation     ── Android Lead / Yahoo! Shopping
+2022 ~ 2024    ZAICO (Side)       ── Android
+2018 ~ 2022    TOPCON             ── Mobile Engineer / New App Development
+```
+
+---
+
+### 🚀 Side Projects (Private)
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **kamibukuro** | Paper bag design tool — Create print-ready designs without Illustrator, with 2D editor + 3D real-time preview | Next.js, Konva, React Three Fiber, Zustand |
+| **Oyako Diary** | Digital exchange diary for parent & child communication | Flutter, Riverpod, Supabase |
+| **Family Connect** | App connecting grandparents in hospitals/care facilities with family | Expo (React Native), Supabase |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omooooori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omooooori&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=omooooori&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omooooori&theme=tokyonight&no-frame=true&column=7" />
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omooooori/omooooori/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omooooori/omooooori/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/omooooori/omooooori/output/github-snake.svg" />
+</picture>
+
