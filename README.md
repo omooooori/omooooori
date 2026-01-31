@@ -76,6 +76,15 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-jet-beta-37.vercel.app/api?username=omooooori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-jet-beta-37.vercel.app/api/top-langs/?username=omooooori&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+</p>
+
+---
+
 ### 🚀 Side Projects (Private)
 
 | Project | Description | Tech |
@@ -83,15 +92,6 @@
 | **kamibukuro** | Paper bag design tool — Create print-ready designs without Illustrator, with 2D editor + 3D real-time preview | Next.js, Konva, React Three Fiber, Zustand |
 | **Oyako Diary** | Digital exchange diary for parent & child communication | Flutter, Riverpod, Supabase |
 | **Family Connect** | App connecting grandparents in hospitals/care facilities with family | Expo (React Native), Supabase |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-jet-beta-37.vercel.app/api?username=omooooori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats-jet-beta-37.vercel.app/api/top-langs/?username=omooooori&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-</p>
 
 ---
 
