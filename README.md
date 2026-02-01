@@ -10,8 +10,8 @@
 <p align="center">
   <a href="https://x.com/rioX432"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://speakerdeck.com/rio432"><img src="https://img.shields.io/badge/Speaker_Deck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" /></a>
-  <a href="https://github.com/omooooori/omooooori/blob/main/CAREER.md"><img src="https://img.shields.io/badge/Career_Detail-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=omooooori&style=for-the-badge&color=6366F1" alt="Profile Views" />
+  <a href="https://github.com/rioX432/rioX432/blob/main/CAREER.md"><img src="https://img.shields.io/badge/Career_Detail-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rioX432&style=for-the-badge&color=6366F1" alt="Profile Views" />
 </p>
 
 ---
@@ -19,8 +19,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-jet-beta-37.vercel.app/api?username=omooooori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats-jet-beta-37.vercel.app/api/top-langs/?username=omooooori&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-jet-beta-37.vercel.app/api?username=rioX432&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-jet-beta-37.vercel.app/api/top-langs/?username=rioX432&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170" />
 </p>
 
 ---
@@ -98,8 +98,8 @@
 ### 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omooooori/omooooori/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omooooori/omooooori/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/omooooori/omooooori/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rioX432/rioX432/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rioX432/rioX432/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rioX432/rioX432/output/github-snake.svg" />
 </picture>
 
