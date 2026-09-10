@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Senior Mobile Engineer · Android Tech Lead · Kotlin Multiplatform</strong><br/>
-  Tokyo, Japan · Building <a href="https://avvy.live/en"><strong>Avvy</strong></a> at AnotherBall
+  Tokyo, Japan · DroidKaigi 2026 Speaker · Building <a href="https://avvy.live/en"><strong>Avvy</strong></a> at AnotherBall
 </p>
 
 <p align="center">
@@ -24,6 +24,18 @@ Currently, I lead the Android domain for Avvy while contributing to iOS and shar
 - Real-time, camera, audio, face-tracking, Unity, and BLE integrations
 - AI-assisted engineering with Claude Code, Codex, Gemini, and MCP
 - Japanese and English collaboration in product-development teams
+
+## Speaking
+
+### DroidKaigi 2026
+
+**Overcoming accuracy limits of MediaPipe Face Landmarker**
+
+A production-driven talk on improving face-tracking accuracy beyond the raw output of MediaPipe Face Landmarker, based on experience building cross-platform tracking systems with Kotlin Multiplatform, MediaPipe, and ARKit.
+
+**Topics:** Android · Kotlin Multiplatform · MediaPipe · ARKit · Face Tracking
+
+[Session](https://2026.droidkaigi.jp/timetable/1236039/) · [Slides](https://speakerdeck.com/rio432/overcoming-accuracy-limits-of-mediapipe-face-landmarker) · [Video](https://www.youtube.com/watch?v=S79Mc9332bU)
 
 ## Selected Projects
 
